@@ -3,5 +3,5 @@ management:
   security:
     enabled: false
 myname:
-  firstname: ritam
+  firstname: siddhanth
   lastname: banik
