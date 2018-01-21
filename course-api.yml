@@ -1,0 +1,4 @@
+management:
+  port: 3002
+  security:
+    enabled: false
