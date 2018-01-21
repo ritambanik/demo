@@ -2,3 +2,6 @@ management:
   port: 3002
   security:
     enabled: false
+myname:
+  firstname: ritam
+  lastname: banik
